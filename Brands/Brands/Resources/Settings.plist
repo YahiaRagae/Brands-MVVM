@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MainURL</key>
+	<string>https://api.stylight.com/rest/</string>
+	<key>API_KEY</key>
+	<string>C6490912AB3211E680F576304DEC7EB7</string>
+	<key>URLs</key>
+	<dict>
+		<key>URL_GET_ALL_BRANDS</key>
+		<string>brands</string>
+	</dict>
+</dict>
+</plist>

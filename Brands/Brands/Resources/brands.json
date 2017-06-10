@@ -1,0 +1,48 @@
+{
+    "start": 0,
+    "count": 0,
+    "totalResults": 0,
+    "next": null,
+    "brands": [
+               {
+               "id": 876392,
+               "name": "IKEA",
+               "logo": "https://static.stylight.net/brands/de/res/162/876392.2.png"
+               },
+               {
+               "id": 917421,
+               "name": "Boden",
+               "logo": "https://static.stylight.net/brands/de/res/162/917421.2.png"
+               },
+               {
+               "id": 860612,
+               "name": "Juniqe",
+               "logo": "https://static.stylight.net/brands/de/res/162/860612.2.png"
+               },
+               {
+               "id": 33009,
+               "name": "Ted Baker",
+               "logo": "https://static.stylight.net/brands/de/res/162/33009.1.png"
+               },
+               {
+               "id": 5770,
+               "name": "Betty Barclay",
+               "logo": "https://static.stylight.net/brands/de/res/162/5770.1.png"
+               },
+               {
+               "id": 95,
+               "name": "HUGO BOSS",
+               "logo": "https://static.stylight.net/brands/de/res/162/95.2.png"
+               },
+               {
+               "id": 11001,
+               "name": "Odd Molly",
+               "logo": "https://static.stylight.net/brands/de/res/162/11001.2.png"
+               },
+               {
+               "id": 702235, 
+               "name": "My Home", 
+               "logo": "https://static.stylight.net/brands/de/res/162/702235.2.png"
+               }
+               ]
+}
